@@ -8,7 +8,7 @@
 
 Hello! I'm a passionate **Software Engineer** constantly exploring new technologies and crafting elegant solutions to real-world problems. My journey is fueled by curiosity, collaboration, and a love for building impactful applications.
 
-- ⚡ **Currently Building**: A Ruby on Rails Shopify app that connects order notifications to Discord and Slack.
+- ⚡ **Currently Building**: A Ruby on Rails Shopify app that sends order notifications to Discord and Slack.
 - 🌌 **Exploring**: AWS integrations and AI integrations with Ruby on Rails.
 - ❤ **Passionate About**: Scalable web architectures and technical process improvement.
 
